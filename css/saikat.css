@@ -43,3 +43,7 @@ blockquote {
     text-transform: none;
     color: #fff;
 }
+
+.skills-list {
+  font-size: large;
+}
