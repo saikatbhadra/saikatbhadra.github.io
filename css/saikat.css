@@ -27,13 +27,19 @@ blockquote {
 
 .blockquote p {
   display: inline;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .blockquote footer {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .bio {
   font-size: 22px;
+}
+
+.contact-heading {
+    margin: 15px 0;
+    text-transform: none;
+    color: #fff;
 }
